@@ -5,7 +5,7 @@
 - Principal Software Engineer at QuantumBlack, AI by McKinsey & Company
 - Tech lead and maintainer on [**Kedro**](https://github.com/kedro-org/kedro/) 
 - My pronouns are she/her/hers 
-- I'm originally from the Netherlands 🇳🇱  but currently living in London 🇬🇧
+- I'm from the Netherlands 🇳🇱 
 
 #### GitHub Stats 🚀
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=merelcht&hide=stars&show_icons=true&hide_title=true&hide_border=true&title_color=9ff21e&icon_color=f5429b)](https://github.com/merelcht)
